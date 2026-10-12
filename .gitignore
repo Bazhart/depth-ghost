@@ -1,0 +1,21 @@
+# media and renders stay local
+*.mp4
+*.mov
+*.MOV
+*.wav
+*.mp3
+*.m4a
+*.png
+*.jpg
+*.jpeg
+*.heic
+*.HEIC
+*.npy
+*.f32
+frames/
+render/
+out/
+qa/
+cache/
+__pycache__/
+.DS_Store

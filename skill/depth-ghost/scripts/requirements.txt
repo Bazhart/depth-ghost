@@ -1,0 +1,6 @@
+torch
+transformers<5
+numpy<2
+pillow
+opencv-python<4.11
+pillow-heif
