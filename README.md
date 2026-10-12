@@ -1,8 +1,8 @@
 # depth-ghost
 
-Turn any photo or video into the glowing **ghost depth** look (near things glow white, far things fall into black, like a depth scan) with one command in **Claude Code**. This repo also has the full recipe behind the *RENDËZVOUS* video: the music-video edit, the TikTok clips with seamless loops, and the carousel stills.
+Turn any photo or video into the glowing **ghost depth** look (near things glow white, far things fall into black, like a depth scan) with one command in **Claude Code**. This repo also has the full recipe behind the *RENDËZVOUS* video: the music-video edit and the TikTok clips with seamless loops.
 
-> 🇫🇷 **En bref :** installe le skill, ouvre Claude Code, tape `/depth-ghost` et glisse une photo ou une vidéo. Les guides ci-dessous expliquent comment faire une image, une vidéo, un clip complet calé sur le son, des TikToks qui bouclent et un carrousel.
+> 🇫🇷 **En bref :** installe le skill, ouvre Claude Code, tape `/depth-ghost` et glisse une photo ou une vidéo. Les guides ci-dessous expliquent comment faire une image, une vidéo, un clip complet calé sur le son et des TikToks qui bouclent.
 
 ## What's in here
 
@@ -10,7 +10,7 @@ Turn any photo or video into the glowing **ghost depth** look (near things glow 
 |---|---|
 | [`skill/depth-ghost`](skill/depth-ghost) | The Claude Code skill: `/depth-ghost` for photos, videos, folders |
 | [`guides/`](guides) | Step-by-step guides (below) |
-| [`examples/rendezvous`](examples/rendezvous) | The exact scripts behind the RENDËZVOUS edit, TikToks and carousel: a reference to adapt, not a one-click tool |
+| [`examples/rendezvous`](examples/rendezvous) | The exact scripts behind the RENDËZVOUS edit and TikToks: a reference to adapt, not a one-click tool |
 
 ## Install (Mac, a few minutes the first time)
 
@@ -36,8 +36,7 @@ and attach a photo or a video. The first run installs a private Python environme
 2. **[Make a video](guides/02-video.md):** smooth, flicker-free video, cut by cut.
 3. **[Cut a music video around it](guides/03-music-video.md):** a camera keyed to the beat, colour punches, light trails, posterize time, speed ramps, layering, a flash-safety check.
 4. **[TikTok clips & perfect loops](guides/04-tiktok.md):** vertical framing, clean person masks, 8-bar loops with no gap.
-5. **[Carousel stills](guides/05-carousel.md):** hero stills and a final slide.
-6. **[Prompts that worked](guides/prompts.md):** what to type in Claude Code.
+5. **[Prompts that worked](guides/prompts.md):** what to type in Claude Code.
 
 ## Credits & licenses
 

@@ -26,4 +26,3 @@ Type these in Claude Code (after installing the skill). Plain language is fine; 
 
 - "Use the remix as the reference: make 10 TikTok clips on different moments of the song. The hook starts with '…' and is 8 bars. Make sure the masks are well integrated."
 - "Have two of them loop perfectly when the video repeats."
-- "Generate 4 stills of the characters in depth ghost, plus a last carousel slide that sends people to my GitHub, with a Claude Code symbol."

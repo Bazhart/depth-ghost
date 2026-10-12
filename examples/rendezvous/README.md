@@ -14,7 +14,6 @@ These are the exact scripts behind the RENDËZVOUS edit. They are tied to that f
 | `tiktok/tools/personseg.js` | Apple Vision person mattes via JavaScript for Automation (macOS, no compiler). `personseg.swift` is the same thing in Swift. |
 | `tiktok/clean_mattes.py` | Mattes back into the frame, temporal median, singer-only, edge pulled in, stability report. |
 | `tiktok/qa_clips.py` | Specs, audio vs song, loop seams (picture + sound), contact sheets. |
-| `carousel/carousel.py` | Hero stills + final slide (9:16 and 4:5). |
 
 ## What they expect
 

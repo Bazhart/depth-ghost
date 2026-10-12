@@ -49,4 +49,3 @@ A folder works too (every image inside). `--save-raw` also writes 16-bit depth f
 
 - The nearest thing gets the white. If a door frame or a mic steals it, crop it out first (or raise exposure).
 - For a square or vertical post, crop the *source* around the subject before running.
-- Want stills from a video you already rendered? See [5. Carousel stills](05-carousel.md).
